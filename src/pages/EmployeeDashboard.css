@@ -1,0 +1,33 @@
+.employee-dashboard {
+    padding: 2rem;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+  }
+  
+  .projects-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+  }
+  
+  .projects-table th,
+  .projects-table td {
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+    text-align: center;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
